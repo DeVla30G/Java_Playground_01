@@ -1,6 +1,6 @@
 package triangles;
 
-public class pascal {
+public class Pascal {
     
     public static void main(String[] args) {
         int size = 26;

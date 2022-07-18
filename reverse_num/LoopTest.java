@@ -1,6 +1,6 @@
 package reverse_num;
 
-public class loopTest {
+public class LoopTest {
     
     public static void main(String[] args) {
         int number = 7353, reverse = 0;

@@ -2,7 +2,7 @@ package reverse_num;
 
 import java.util.Scanner;
 
-public class recursionTest {
+public class RecursionTest {
     
     public static void revNum(int number) {
         if(number < 10) {

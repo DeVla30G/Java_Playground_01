@@ -1,6 +1,6 @@
 package reverse_num;
 
-public class reverse {
+public class Reverse {
     
     public static void main(String[] args) 
     {

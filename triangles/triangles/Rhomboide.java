@@ -1,6 +1,6 @@
 package triangles;
 
-public class rhomboide {
+public class Rhomboide {
     
     public static void main(String[] args) {
         int size = 7;

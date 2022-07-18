@@ -1,7 +1,8 @@
 package reverse_num;
+
 import java.util.*;
 
-public class reverse4 {
+public class Reverse4 {
 
 public static int revNum(int number) {
     boolean isNoNeg = number < 0 ? true:false;
