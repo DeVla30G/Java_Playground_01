@@ -1,7 +1,6 @@
-package triangles;
+package Pascal;
 
 public class Pascal {
-    
     public static void main(String[] args) {
         int size = 26;
         int alphas = 65;
@@ -18,5 +17,5 @@ public class Pascal {
             }
             System.out.println();
         }
-    }
+    } 
 }

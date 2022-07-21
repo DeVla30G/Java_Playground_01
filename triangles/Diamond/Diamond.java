@@ -1,7 +1,6 @@
-package triangles;
+package Diamond;
 
-public class Rhomboide {
-    
+public class Diamond {
     public static void main(String[] args) {
         int size = 7;
         int alphas = 65;
@@ -24,5 +23,5 @@ public class Rhomboide {
             }
             System.out.println();
         }
-    }
+    } 
 }

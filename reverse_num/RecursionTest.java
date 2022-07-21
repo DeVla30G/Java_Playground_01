@@ -9,7 +9,7 @@ public class RecursionTest {
             System.out.println(number);
             return;
         }else {
-            System.out.println(number % 10);
+            System.out.print(number % 10);
             revNum(number/10);
         }
         
@@ -19,7 +19,7 @@ public class RecursionTest {
         Scanner sc = new Scanner(System.in); 
         int num = sc.nextInt();
         sc.close();
-        System.out.println("The revese number is: ");
+        System.out.print("The revese number is: ");
         revNum(num);
         
     }

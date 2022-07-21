@@ -1,3 +1,4 @@
+package Find;
 public class Find {
 
         public  String missingChar(String str, int n){
